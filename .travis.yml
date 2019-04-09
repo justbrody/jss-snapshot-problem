@@ -1,2 +1,4 @@
 language: node_js
-cache: npm
+cache: npm	cache: npm
+node_js:	
+  - "11.13.0"
